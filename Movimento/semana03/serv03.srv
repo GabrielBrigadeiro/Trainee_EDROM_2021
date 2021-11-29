@@ -1,0 +1,5 @@
+int64[20] id
+float64[20] position
+bool[20] torque
+---
+float64[20] resposta
